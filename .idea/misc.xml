@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_detail_jaket.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_detail_kaos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_detail_kemeja.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_jaket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_kaos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_kemeja.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/jaket_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/kaos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/layout/kemeja_item.xml" value="0.203125" />
+        <entry key="..\:/Users/Reyhan/AndroidStudioProjects/KatalogNakhodaNusantara/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

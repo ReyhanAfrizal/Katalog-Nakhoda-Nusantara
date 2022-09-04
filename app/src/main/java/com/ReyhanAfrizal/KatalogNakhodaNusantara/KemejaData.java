@@ -1,0 +1,17 @@
+package com.ReyhanAfrizal.KatalogNakhodaNusantara;
+
+import android.content.Context;
+
+import java.util.ArrayList;
+
+public class KemejaData {
+    public static ArrayList<Katalog> getData(Context context) {
+        ArrayList<Katalog> list = new ArrayList<Katalog>();
+        list.add(new Katalog("America Drill", "American Drill merupakan kain yang sangat direkomendasikan untuk bahan dasar pembuatan kemeja lapangan(PDL), seragam perusahaan, seragam sekolah, jas almamater dan celana formal. Kain ini bertekstur miring atau diagonal memiliki jalinan benang yang cukup kuat. Kain American Drill terbuat dari campuran antara polyster dan viscose yang membuat kain ini kokoh dan terlihat sedikit mengkilap.", context.getDrawable(R.drawable.amdrill)));
+        list.add(new Katalog("Japan Drill", "Japan Drill merupakan bahan kain yang berserat tinggi membuat kain ini begitu kuat. Kain Japan Drill termasuk juga dalam rekomendasi bahan pembuatan kemeja lapangan (PDL), seragam perusahaan, seragam sekolah, jas almamater dan celana formal. Kain ini memiliki karakteristik permukaan lembut, komposisi kain japan drill memiliki serat benang yang tebal namun tetap adem jika digunakan, kemudian kain ini mampu menyerap air dengan baik juga seperti nagata drill. Kain Japan Drill terbuat dari campuran antara katun dan polyster dimana dominasi katun lebih banyak dibanding dengan polyster yang membuat kain ini nyaman digunakan.", context.getDrawable(R.drawable.jpndrill)));
+        list.add(new Katalog("Oxford", "Bahan kain oxford adalah bahan kain yang terbuat dari katun dengan campuran teteron. Kain oxford merupakan salah satu jenis kain drill. namun, perbedaanya kain oxford dibuat menggunakan benang yang lebih tipis ketimbang jenis kain drill lainnya.Katun oxford memiliki serat yang rapat dan halus, menjadikan bahan ini memiliki ketebalan yang pas namun tetap terasa lentur. Bahan ini bertekstur rata dengan serat yang rapi dan rapat, hal ini terlihat pada benang yang nampak seperti titik-titik.", context.getDrawable(R.drawable.oxford)));
+        list.add(new Katalog("Ripstok", "Ribstop merupakan bahan kain yang sangat rekomendasi untuk seragam dan baju safety yang berkegiatan di lapangan. Kain Ribstop memiliki ketahan yang baik untuk penggunaan outdoor, dengan komposisi katun, polyster, nilon serta polypropylene dengan teknik tenun khusus, yang berbeda adalah cara menenunnya, didalam komposisinya bisa menggunakan katun dan polysternya sama atau lebih banyak atau nilonya lebih tinggi, dengan kerapatan yang sangat rapat dan berbagai pola bentuk garis mulai dari hexagon, diamond atau kotak membentuk struktur menjadi 3 anyaman sehingga membuat serat kain atau nilon menjadi terjalin sangat kuat, tidak mudah sobek.", context.getDrawable(R.drawable.ribstok)));
+        list.add(new Katalog("Taipan Drill", "Kain Taipan Drill ini sangat nyaman, lembut, halus dan merupakan kualitas drill nomor 1 untuk saat ini. Banyak pemakai bahan ini yang tidak ingin pindah ke lain merk Dikarenakan kualitasnya yang memang mumpuni. Warna kainnya juga tidak mudah pudar dan tidak panas saat dikenakan.Saat ini banyak perusahaan besar yang karyawannya menggunakan merk drill ini. Kepuasan pemakainya membuat bahan ini sering direkomendasikan. Tidak heran produk Taipan drill ini sangat laris di pasaran selain bahannya lembut, namun kuat dan tahan lama. Kain ini cocok sekali digunakan untuk seragam kerja baik karyawan kantor maupun karyawan manufaktur.", context.getDrawable(R.drawable.taipandrill)));
+        return list;
+    }
+}
